@@ -115,3 +115,7 @@ python compagnon.py --demarrage on
 | `roux_llm.py` | backends (CLI, HTTP, Anthropic) et outils |
 | `compagnon_mcp.py` | serveur MCP stdio |
 | `scripts/` | scripts de maintenance que le renard est autorisé à lancer, et rien d'autre |
+
+## Licence
+
+MIT — voir [LICENSE](LICENSE).
