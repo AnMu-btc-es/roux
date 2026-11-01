@@ -1,0 +1,12 @@
+{
+  "backend": "cmdc",
+  "modele": "claude-haiku-5-5",
+  "commande_cmdc": "cmdc",
+  "effort": "",
+  "veille_heure": "",
+  "taille": "3",
+  "url_http": "",
+  "cle_http": "",
+  "flux": "1",
+  "acp": "1"
+}

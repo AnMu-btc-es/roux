@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+# reglages et donnees locales : jamais versionnes
+roux_config.json
+roux_api.json
+renard_save.json
+apercu_*.png
